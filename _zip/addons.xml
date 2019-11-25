@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="plugin.program.TheScouseBuild" name="[B]The [COLOR dodgerblue]Scouse[/COLOR] Build[/B]" version="1.0" provider-name="the-scouse-build">
+    <addon id="plugin.program.TheScouseBuild" name="[B]The [COLOR MediumSlateBlue]Scouse Build[/COLOR][/B]" version="1.0" provider-name="the-scouse-build">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
         </requires>
@@ -9,8 +9,8 @@
         </extension>
         <extension point="xbmc.service" library="startup.py" start="startup" />
         <extension point="xbmc.addon.metadata">
-            <summary lang="en">[B]The [COLOR dodgerblue]Scouse[/COLOR] Build[/B]</summary>
-            <description lang="en">TheScouseBuild Wizard contains the latest Scouse Builds.</description>
+            <summary lang="en">[B]The [COLOR MediumSlateBlue]Scouse Build[/COLOR][/B]</summary>
+            <description lang="en">The [COLOR MediumSlateBlue]Scouse Build[/COLOR] Wizard contains the latest [COLOR MediumSlateBlue]Scouse Builds[/COLOR].</description>
             <platform>all</platform>
         </extension>
     </addon>
